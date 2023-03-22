@@ -1,0 +1,22 @@
+.dash{
+  width: 300px;
+  height: 150px;
+  background: cornflowerblue;
+  padding: 10px;
+  flow: right;
+  display: inline-block;
+  text-align: center;
+  position: relative;
+  border: solid;
+}
+#scroller{
+  height: 150px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+  text-align: center;
+  border: darkcyan;
+  border-bottom-color: darkcyan;
+  border: solid;
+}
+
